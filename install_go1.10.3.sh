@@ -83,6 +83,7 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 go version
 go env
 
+#if on Kali you may have to change your $Path variable to include /usr/local/go/bin
 
 #Credits to Rahul K.
 #Original install instructions here: https://tecadmin.net/install-go-on-debian/
